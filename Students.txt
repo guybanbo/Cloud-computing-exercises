@@ -1,0 +1,6 @@
+'Yuval Hilai', 'Yuval.Hilai@e.braude.ac.il', 'Comp Anan Kriya Phys', 'Software Engineering', 'google.com', ''
+'Matan Nachmuha', 'Matan.Nachmuha@e.braude.ac.il', 'Comp Anan Kriya Phys Web Bina', 'Software Engineering','google.com', ''
+'Guy Banbo', 'Gay.Banbo@e.braude.ac.il', 'Comp Anan  Bina crypto', 'Software Engineering','google.com', ''
+'Elior Malik', 'elior.malik@e.braude.ac.il', 'Comp Anan Kriya Phys Web Bina', 'Software Engineering','google.com', ''
+'Ofir Shahaf', 'ofir.shahaf@e.braude.ac.il', 'Comp Anan Kriya Phys Web Bina', 'Software Engineering','google.com', ''
+'Julia Shbat', 'julia.shbat@e.braude.ac.il', 'Comp Anan Kriya Phys Web Bina Graphic ', 'Software Engineering','google.com', ''
