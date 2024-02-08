@@ -1,0 +1,32 @@
+[
+  {
+      "number": 1,
+      "question": "What is a correct syntax to output \"Hello World\" in Python??",
+      "options": [" echo Hello World", " echo Hello World;", "print(\"Hello World\")", "cout<< hello world"],
+      "correct_answer": 2
+  },
+  {
+      "number": 2,
+      "question": "How do you insert COMMENTS in Python code? ",
+      "options": ["#This is a comment", "/comment", "*comment", "!comment"],
+      "correct_answer": 0
+  },
+  {
+      "number": 3,
+      "question": "Which one is NOT a legal variable name??",
+      "options": ["my-var", "var", "var_var", "_var"],
+      "correct_answer": 0
+  },
+  {
+      "number": 4,
+      "question": "What is the correct file extension for Python files?",
+      "options": [".py", ".doc", ".c", ".h"],
+      "correct_answer": 0
+  },
+  {
+      "number": 5,
+      "question": "What is the correct way to create a function in Python?",
+      "options": [" def myFunction():", "function f()", "f function()", "return function()"],
+      "correct_answer": 0
+  }
+]
